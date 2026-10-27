@@ -1,0 +1,80 @@
+{
+    "not_allowed": "Du kan inte använda alkoholmätaren.",
+    "test": {
+        "asking": "Ber {name} att göra ett utandningsprov.",
+        "refused": "{name} vägrade utandningsprovet.",
+        "stopped": "Utandningsprovet avbröts.",
+        "they_stopped": "Den andra personen avbröt utandningsprovet.",
+        "left": "Den andra personen försvann.",
+        "too_far": "För långt bort.",
+        "cant_reach": "Du når inte fram till munnen härifrån.",
+        "no_mouthpiece": "Du har inget munstycke.",
+        "no_device": "Ta fram alkoholmätaren först.",
+        "busy": "Du är redan mitt i ett utandningsprov.",
+        "no_player": "Det finns ingen att testa där.",
+        "they_busy": "Personen testas redan.",
+        "no_answer": "Servern svarade inte, försök igen.",
+        "your_result": "Ditt utandningsprov: {value} {unit}",
+        "your_result_over": "Ditt utandningsprov: {value} {unit}, över gränsen."
+    },
+    "target": {
+        "test": "Utandningsprov",
+        "test_car": "Utandningsprov på den i bilen"
+    },
+    "ask": {
+        "title": "{name} ber dig göra ett utandningsprov",
+        "accept": "Godkänn",
+        "refuse": "Vägra"
+    },
+    "hint": {
+        "out": "Alkoholmätare",
+        "out_sub": "Titta på någon för att testa dem",
+        "officer": "Utandningsprov",
+        "officer_ask": "Väntar på att {name} ska gå med på det",
+        "officer_place": "Håller den mot munnen",
+        "officer_blow": "Väntar på att {name} ska blåsa",
+        "officer_blowing": "{name} blåser",
+        "officer_again": "För kort: {name} blåser igen",
+        "officer_analyze": "Analyserar provet",
+        "officer_read": "Läser av resultatet",
+        "subject": "Utandningsprov",
+        "subject_wait": "Polisen håller munstycket mot din mun",
+        "subject_ready": "Håll in tangenten och blås tills stapeln är full",
+        "subject_blowing": "Fortsätt blåsa",
+        "subject_again": "För kort: blås igen",
+        "subject_analyze": "Analyserar provet",
+        "slip": "Testkvitto",
+        "slip_sub": "Prov {no}: {name}"
+    },
+    "slip": {
+        "description": "Prov {no}: {result}, {name}",
+        "failed": "provet misslyckades",
+        "full": "Du har inte plats för testkvittot.",
+        "blank": "Inget är utskrivet på det här kvittot."
+    },
+    "key": {
+        "away": "Lägg undan",
+        "stop": "Avbryt",
+        "blow": "Blås",
+        "back": "Tillbaka"
+    },
+    "meter": {
+        "breath": "Utandning"
+    },
+    "keymap": {
+        "blow": "Alkoholmätare: blås",
+        "cancel": "Alkoholmätare: lägg undan eller avbryt provet",
+        "accept": "Alkoholmätare: gör ett utandningsprov du blir ombedd att göra",
+        "refuse": "Alkoholmätare: vägra ett utandningsprov du blir ombedd att göra"
+    },
+    "dummy": {
+        "name": "Testdockan",
+        "no_car": "Ingen bil med ledig förarplats nära dig."
+    },
+    "admin": {
+        "no_player": "Ingen sådan spelare.",
+        "bac": "{name} ({id}): {value} {unit}, {coming} till är på väg.",
+        "bad_value": "Ange ett värde från 0 till 0,6 (% BAC).",
+        "set": "{name} ({id}) har nu {value} % BAC."
+    }
+}

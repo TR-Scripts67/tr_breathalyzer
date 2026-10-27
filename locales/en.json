@@ -1,0 +1,80 @@
+{
+    "not_allowed": "You can't use the breathalyzer.",
+    "test": {
+        "asking": "Asking {name} to take a breath test.",
+        "refused": "{name} refused the breath test.",
+        "stopped": "The breath test was stopped.",
+        "they_stopped": "The other person stopped the breath test.",
+        "left": "The other person left.",
+        "too_far": "Too far away.",
+        "cant_reach": "You can't reach their mouth from here.",
+        "no_mouthpiece": "You have no mouthpiece.",
+        "no_device": "Take the breathalyzer out first.",
+        "busy": "You're already in a breath test.",
+        "no_player": "There's nobody to test there.",
+        "they_busy": "They're already being tested.",
+        "no_answer": "The server didn't answer, try again.",
+        "your_result": "Your breath test: {value} {unit}",
+        "your_result_over": "Your breath test: {value} {unit}, over the limit."
+    },
+    "target": {
+        "test": "Breath test",
+        "test_car": "Breath test the occupant"
+    },
+    "ask": {
+        "title": "{name} asks you to take a breath test",
+        "accept": "Accept",
+        "refuse": "Refuse"
+    },
+    "hint": {
+        "out": "Breathalyzer",
+        "out_sub": "Look at someone to test them",
+        "officer": "Breath test",
+        "officer_ask": "Waiting for {name} to agree",
+        "officer_place": "Holding it to their mouth",
+        "officer_blow": "Waiting for {name} to blow",
+        "officer_blowing": "{name} is blowing",
+        "officer_again": "Too short: {name} blows again",
+        "officer_analyze": "Analyzing the sample",
+        "officer_read": "Reading the result",
+        "subject": "Breath test",
+        "subject_wait": "The officer holds the mouthpiece to your mouth",
+        "subject_ready": "Hold the key and keep blowing until the bar is full",
+        "subject_blowing": "Keep blowing",
+        "subject_again": "Too short: blow again",
+        "subject_analyze": "Analyzing the sample",
+        "slip": "Test slip",
+        "slip_sub": "Test {no}: {name}"
+    },
+    "slip": {
+        "description": "Test {no}: {result}, {name}",
+        "failed": "test failed",
+        "full": "No room for the test slip.",
+        "blank": "Nothing is printed on this slip."
+    },
+    "key": {
+        "away": "Put away",
+        "stop": "Stop",
+        "blow": "Blow",
+        "back": "Back"
+    },
+    "meter": {
+        "breath": "Breath"
+    },
+    "keymap": {
+        "blow": "Breathalyzer: blow",
+        "cancel": "Breathalyzer: put away or stop the test",
+        "accept": "Breathalyzer: take a breath test you are asked to",
+        "refuse": "Breathalyzer: refuse a breath test you are asked to"
+    },
+    "dummy": {
+        "name": "The dummy",
+        "no_car": "No car with a free driver's seat near you."
+    },
+    "admin": {
+        "no_player": "No such player.",
+        "bac": "{name} ({id}): {value} {unit}, {coming} more still to come.",
+        "bad_value": "Give a value from 0 to 0.6 (% BAC).",
+        "set": "{name} ({id}) is now at {value} % BAC."
+    }
+}

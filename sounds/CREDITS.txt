@@ -1,0 +1,11 @@
+Sound effects from freesound.org, all released under CC0 1.0 (public domain).
+Trimmed and normalized by dev/sounds/build.mjs.
+
+https://freesound.org/s/747199/  rubber button on electric device by ShJafari
+https://freesound.org/s/541083/  Digital Multi Meter Beep.wav by Chelly01
+https://freesound.org/s/151778/  Clip In.wav by slappy13
+https://freesound.org/s/445153/  Blowing up a Balloon.wav by BrendanSound12
+https://freesound.org/s/679204/  12 Volt Solenoid Clicks by shdwtek
+https://freesound.org/s/729049/  portable thermal printer by digital.arts.MA
+https://freesound.org/s/448931/  Audio 1 repcipt ripping.wav by GabrielPhegley
+https://freesound.org/s/816684/  receipt handling2 by Alpaca_Audio
